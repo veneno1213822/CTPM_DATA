@@ -1,6 +1,6 @@
-# TEAS2.0DATA
+# CTPM DATA
 
-##### This is the dataset for MDPI Electronics CTPM. 
+##### This is the dataset for CTPM.
 
 Four channels of photoelectric signals totaling 4 × 246 seconds were recorded with 44100 Hz of sampling rate and 24 bit of depth.
 
