@@ -2,7 +2,7 @@
 
 ##### This is the dataset for CTPM.
 
-Four channels of photoelectric signals totaling 4 × 246 seconds were recorded with 44100 Hz of sampling rate and 24 bit of depth.
+Four channels of photoelectric signals totaling 4 × 246 seconds were recorded with a sampling rate of 44100 Hz and a 24-bit depth.
 
 ```
 Jasmine Flower: 54s; 
